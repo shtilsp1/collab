@@ -1,0 +1,75 @@
+.read {
+  margin-top: 218px; }
+
+.read-content h1 {
+  color: #080829;
+  font-weight: 400;
+  font-size: 43px;
+  line-height: 55.68px;
+  letter-spacing: 1.44px; }
+
+.read-content {
+  display: flex;
+  align-items: center;
+  flex-direction: column; }
+
+.read-cards {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  height: 485px; }
+
+.Br {
+  color: #080829;
+  background-color: rgba(162, 89, 255, 0.3);
+  width: 100px;
+  border-radius: 10px;
+  padding: 5px 20px 11px 20px;
+  margin-top: 31px; }
+
+.Bu {
+  color: #080829;
+  background-color: #d9deff;
+  width: 113px;
+  border-radius: 10px;
+  padding: 5px 20px 11px 20px;
+  margin-top: 31px; }
+
+.St {
+  color: #080829;
+  background-color: rgba(250, 91, 104, 0.3);
+  width: 113px;
+  border-radius: 10px;
+  padding: 5px 20px 11px 20px;
+  margin-top: 31px; }
+
+.read-card {
+  position: relative; }
+
+.read-card h2 {
+  color: #080829;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 39px;
+  letter-spacing: 0.52px;
+  width: 315px; }
+
+.read-card h2::after {
+  content: "";
+  position: absolute;
+  top: 430px;
+  left: 0px;
+  width: 344px;
+  border-bottom: 1px solid #080829; }
+
+.read-card h2:nth-child(3) {
+  width: 344px; }
+
+.date {
+  display: flex;
+  color: #080829; }
+
+.date li {
+  list-style-type: square; }
+
+/*# sourceMappingURL=read.css.map */

@@ -1,0 +1,41 @@
+.title-content {
+  display: flex;
+  margin-top: 70px;
+  justify-content: space-between; }
+
+.left-side h1 {
+  font-size: 63px;
+  line-height: 79.2px;
+  letter-spacing: 2.16px;
+  font-weight: 400;
+  width: 470px; }
+
+.left-side h2 {
+  font-size: 18px;
+  line-height: 28.8px;
+  letter-spacing: 0.36px;
+  font-weight: 400;
+  margin-top: 31px;
+  width: 495px; }
+
+.left-side-btn button {
+  color: #FFFFFF;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 0.4px;
+  padding: 16px 36px 23px 36px;
+  background-color: #3F53D8;
+  border: 1px solid #3F53D8;
+  border-radius: 14px;
+  margin-top: 43px; }
+
+.left-side-btn {
+  position: relative; }
+
+.left-side-btn-img {
+  position: absolute;
+  top: 23px;
+  left: 274px; }
+
+/*# sourceMappingURL=title.css.map */
